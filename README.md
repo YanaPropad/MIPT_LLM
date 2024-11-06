@@ -1,3 +1,1 @@
 # MIPT_LLM
-
-ksksk
