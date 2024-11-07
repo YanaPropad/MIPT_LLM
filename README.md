@@ -4,7 +4,7 @@ Homework_word_to_vec.ipynb - ноутбук для выполнения прак
 
 Для выполнения задания необходимо скачать:
 <li>robocrys_exp_stable_70_tokens.txt и robocrys_exp_stable_70_tokens.csv - данные
-<li>robocrys_exp_stable_70_tokens.csv - функции, необходимые для работы ноутбука
+<li>skipgram_model_functions.py - функции, необходимые для работы ноутбука
 
 В ходе выполнения домашнего задания в директории с ноутбуком сгенерируются файлы:
 <li>3D_plot_by_structure_types_70_tokens.html
