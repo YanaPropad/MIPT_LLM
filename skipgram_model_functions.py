@@ -302,7 +302,7 @@ def get_3D_plot_by_structure_types(list_of_formules, embeddings_3d, accuracy, ou
     fig.write_html(output_filename)
 
 
-def get_3D_plot_by_crystal_system(list_of_formules, embeddings_3d, accuracy, output_filename, properties_filaname):
+def get_3D_plot_by_crystal_system(list_of_formules, embeddings_3d, accuracy, output_filename, properties_filename):
 
     df_properties = pd.read_csv(properties_filename)
     df_embeddings_3d = pd.DataFrame(embeddings_3d, columns=['x', 'y', 'z'])
