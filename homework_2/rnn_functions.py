@@ -13,7 +13,6 @@ import torch.nn.functional as F
 from torch.optim.lr_scheduler import ReduceLROnPlateau, StepLR
 
 
-
 def generate_chunk(text_encoded, token_to_idx, batch_size, seq_length):
 
     start_column = np.zeros((batch_size, 1), dtype=int) + token_to_idx['<sos>']
