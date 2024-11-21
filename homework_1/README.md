@@ -1,4 +1,4 @@
-# MIPT_LLM
+# homework_1: word2vec
 
 Презентация [Введение в NLP и LLM в материаловедении и химии](https://github.com/YanaPropad/MIPT_LLM/blob/main/Введение%20в%20NLP%2C%20LLM%20%20в%20материаловедении%20и%20химии.pdf)
 
