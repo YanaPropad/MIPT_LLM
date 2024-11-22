@@ -7,6 +7,10 @@
 
 ### Материалы для углубления в NLP и LLM:
 1. Word2vec
-   - Оригинальная статья по word2vec с ICLR 2013:<br>
+   - Оригинальная статья по Word2vec с ICLR 2013:<br>
      [Mikolov, Tomas & Corrado, G.s & Chen, Kai & Dean, Jeffrey. (2013). Efficient Estimation of Word Representations in Vector Space. 1-12.](https://arxiv.org/abs/1301.3781)
-   - Second nested list item
+   - Word2vec в картинках, оригинальные материалы, автор Jay Allamar:<br>
+     [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)<br>
+     и перевод на Хабре:<br>
+     [Word2vec в картинках](https://habr.com/ru/articles/446530/)
+
