@@ -17,16 +17,16 @@
    - Быстрый разбор и сравнение архитектур рекуррентных нейронных сетей на русском:<br>
      [RNN, LSTM, GRU и другие рекуррентные нейронные сети](http://vbystricky.ru/2021/05/rnn_lstm_gru_etc.html)
 3. Attention:
-   - Оригинальная статья по механизму Attention с NeurIPS 2017:
+   - Оригинальная статья по механизму Attention с NeurIPS 2017:<br>
      [Vaswani, Ashish, Noam M. Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser and Illia Polosukhin. (2017) Attention is All you Need.](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 4. Трансформеры:
    - Transformer в картинках, оригинальные материалы, автор Jay Allamar:<br>
      [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)<br>
      и перевод на Хабре:<br>
-     [Transformer в картинках](https://habr.com/ru/articles/486358/)
+     [Transformer в картинках](https://habr.com/ru/articles/486358/)<br>
      Материалы содержат в себе также подробное описание механизмов Attention, Self-Attention, Multihead-Attention
 5. LLM:
-  [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch):<br>
-  Официальный репозиторий для книги "Build a Large Language Model (From Scratch)", Sebastian Raschka. Содержит задания, решения и объяснения каждого шага полного цикла разработки, претрейнинга и файнтюнинга GPT-подобных моделей
+  - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch):<br>
+    Официальный репозиторий для книги "Build a Large Language Model (From Scratch)", Sebastian Raschka. Содержит задания, решения и объяснения каждого шага полного цикла разработки, претрейнинга и файнтюнинга GPT-подобных моделей
   ![Иллюстрация к проекту](https://camo.githubusercontent.com/a17472f25db0af2e7a72700cf3e994b48a61405931b54111ed4d62cbe0371216/68747470733a2f2f73656261737469616e72617363686b612e636f6d2f696d616765732f4c4c4d732d66726f6d2d736372617463682d696d616765732f6d656e74616c2d6d6f64656c2e6a7067)
 
